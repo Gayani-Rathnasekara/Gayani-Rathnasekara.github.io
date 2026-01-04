@@ -1,0 +1,76 @@
+/* ===============================
+   Global Typography
+================================ */
+
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: #222;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* ===============================
+   Header / Navigation
+================================ */
+
+.site-header {
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.site-nav a {
+  font-weight: 500;
+  color: #444;
+}
+
+.site-nav a:hover {
+  color: #0077cc;
+}
+
+/* ===============================
+   Homepage Hero Section
+================================ */
+
+.home h1 {
+  font-size: 2.6rem;
+  margin-top: 2rem;
+}
+
+.home p {
+  font-size: 1.1rem;
+  max-width: 700px;
+}
+
+/* ===============================
+   Section Styling
+================================ */
+
+.page-content {
+  padding-top: 3rem;
+}
+
+.page-content h2 {
+  margin-top: 3rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3rem;
+}
+
+/* ===============================
+   Footer
+================================ */
+
+.site-footer {
+  border-top: 1px solid #eee;
+  font-size: 0.9rem;
+  color: #777;
+}
