@@ -1,0 +1,22 @@
+title: "Gayani Rathnasekara"
+author: "Gayani Rathnasekara"
+email: grath003@fiu.edu
+
+description: >
+  Gayani's Profile: Presenting my personal, professional, and academic journey  
+
+theme: minima
+
+header_pages:
+  - about.md
+  - education.md
+  - experience.md
+  - projects/research.md
+  - publications.md
+  - volunteering.md
+  - skills.md
+  - awards.md
+  - hobbies.md
+
+github_username: Gayani-Rathnasekara
+linkedin_username: gayani-rathnasekara
