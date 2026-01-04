@@ -6,6 +6,9 @@ description: >
   Gayani's Profile: Presenting my personal, professional, and academic journey  
 
 theme: minima
+google_fonts:
+  - Inter:400,500,600
+
 
 header_pages:
   - about.md
