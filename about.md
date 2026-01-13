@@ -9,5 +9,5 @@ My research focuses on hardware-accelerated digital signal processing architectu
 
 My work bridges algorithm design, FPGA/RFSoC prototyping, and ASIC-ready digital architectures for real-time ultra wideband systems and integrating ML systems on hardware for advancing hardware intelligence for future wireless networks.
 <p align="center">
-  <img src="/assets/image_repo/IMG_8917.jpg" width="220" alt="Profile photo">
+  <img src="/assets/images/IMG_8917.jpg" width="220" alt="Profile photo">
 </p>
