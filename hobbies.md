@@ -4,7 +4,9 @@ title: Hobbies
 permalink: /hobbies/
 ---
 
-- Technical blogging
-- Mentoring students
-- Gardening and travel
-- Exploring emerging technologies
+- 🌱 Gardening  
+- 🌍 Travelling (lover of nature)  
+- 🍳 Cooking and treating others with food  
+- 👩‍🏫 Mentoring students  
+- 🚀 Exploring emerging technologies  
+- ✍️ Technical talks & blogging  
