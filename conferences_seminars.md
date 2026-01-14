@@ -1,8 +1,8 @@
 
 ---
 layout: page
-title: Conferences and seminars
-permalink: /conferences_seminars/
+title: Conferences
+permalink: /conferences/
 ---
 - Presented our paper at the 2026 USNC-URSI National Radio Science Meeting (NRSM), Boulder, CO, USA (2026)
 - Delivered IEEE SSCS/EDS-supported semiconductor outreach seminars, mentoring 150+ high school and undergraduate students across Sri Lanka on chip technologies, AI hardware, and industry pathways (2025)
