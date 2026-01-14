@@ -4,6 +4,12 @@ title: Volunteering
 permalink: /volunteering/
 ---
 
-- Founding Secretary – IEEE SSCS Miami Chapter
-- Semiconductor outreach programs (150+ students)
-- IEEE SSCS / EDS SEED Program contributor
+- IEEE SSCS Miami Chapter – Founding Secretary:
+    - Established and organized the chapter’s operations, coordinating events and initiatives for members in the semiconductor and signal processing community.
+    - Facilitated networking and mentorship opportunities for students and early-career professionals.
+      
+- STEM & Semiconductor Outreach Seminars (150+ students):
+    - Delivered technical seminars on chip technologies, AI hardware, and career pathways to over 150 students across Sri Lanka.
+    - Designed content to inspire and educate students on interdisciplinary applications of electrical engineering and digital systems.
+    - Contributed to awareness and education initiatives for emerging spectrum management and RF system innovations.
+
