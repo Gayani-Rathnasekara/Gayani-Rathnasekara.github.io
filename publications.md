@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-- to be added
-- Author et al., *Title*, IEEE Conference, Year  
-- Author et al., *Title*, Journal Name, Year
+Publications:
+
+Please refer
+- **<a href="https://scholar.google.com/citations?user=UMnTcrgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>**
+- **<a href="https://orcid.org/my-orcid?orcid=0000-0003-1564-4872" target="_blank" rel="noopener noreferrer">ORCiD</a>**
