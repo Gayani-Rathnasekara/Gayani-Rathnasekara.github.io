@@ -23,7 +23,7 @@ permalink: /experience/
   - Led classroom sessions and coordinated academic activities for undergraduates.
   - Mentored student teams on to use complex engineering concepts into practical implementations, emphasizing correct design methodology.
   - Collaborated in ongoing research projects through experimental assistance and technical documentation.
-  - Assisted with exam preparation and assessment of technical problem-solving skills.
+  - Assisted with exam preparation and assessment of undergraduate projects.
   - Coordinated and organized academic and social events in collaboration with staff and student groups.
 
   I am deeply grateful to my mother faculty for providing an enriching academic and research environment that supported my professional and personal growth. The opportunity to collaborate with dedicated faculty, staff, and students has strengthened my technical expertise, leadership, and teamwork skills. 
