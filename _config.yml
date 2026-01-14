@@ -13,7 +13,6 @@ theme: minima
 google_fonts:
   - Inter:400,500,600
 
-
 header_pages:
   - about.md
   - education.md
