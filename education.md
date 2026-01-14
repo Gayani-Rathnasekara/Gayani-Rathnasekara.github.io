@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 **PhD in Electrical and Computer Engineering** 2023 - Present
-Florida International University **<a href="[https://cec.fiu.edu/]" target="_blank" rel="noopener noreferrer">(FIU)</a>**, Miami, Florida, USA
+Florida International University **<a href="https://cec.fiu.edu/" target="_blank" rel="noopener noreferrer">(FIU)</a>**, Miami, Florida, USA
 
 Research Area: Digital Hardware Architecture design, prototype, and demonstrate for RF Systems for hardware acceleration and RF AI/ML applications
 
@@ -16,7 +16,7 @@ External courses: SystemVerilog for ASIC/FPGA Design & Verification, Machine Lea
 
 
 **Master’s in Business Administration (MBA)** 2020 - 2022
-Postgraduate Institute of Management **<a href="[https://www.pim.sjp.ac.lk/]" target="_blank" rel="noopener noreferrer">(PIM)</a>**, University of Sri Jayewardenepura, Sri Lanka
+Postgraduate Institute of Management **<a href="https://www.pim.sjp.ac.lk/" target="_blank" rel="noopener noreferrer">(PIM)</a>**, University of Sri Jayewardenepura, Sri Lanka
 
 GPA: 6.0 Average Grade: A-
 
@@ -27,7 +27,7 @@ Courses: Managing Organizations, Economic Analysis for Business, Business Commun
 
 
 **Bachelor’s in Electrical & Information Engineering** 2015 - 2019
-Faculty of Engineering  **<a href="[https://www.eng.ruh.ac.lk/]" target="_blank" rel="noopener noreferrer">(EFAC)</a>**, University of Ruhuna, Sri Lanka
+Faculty of Engineering  **<a href="https://www.eng.ruh.ac.lk/" target="_blank" rel="noopener noreferrer">(EFAC)</a>**, University of Ruhuna, Sri Lanka
 
 OGPA: 3.53/4.00 (Second Class Honours Upper Division)
 
