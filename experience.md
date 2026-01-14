@@ -36,5 +36,8 @@ permalink: /experience/
   
   ADL is where I began my engineering career as a fresher, growing through multiple roles from Engineer to Senior Engineer in Telco Solutions. Working with diverse,   multicultural teams towards achieving business goals was an enriching experience, and the work culture at ADL was truly inspiring, motivating, and growth-oriented. I am deeply grateful to every leader who believed in me from the beginning, and to everyone who mentored, inspired, and supported my journey.
 
+  - Internships
+    - Trainee Engineer - Ceylon Electricity Board, Sri Lanka (Nov 2017 – Feb 2018)
+    - Trainee Engineer - Sri Lanka Telecom Mobitel (Pvt) Ltd., Sri Lanka (Dec 2016 – Mar 2017)
 
 
