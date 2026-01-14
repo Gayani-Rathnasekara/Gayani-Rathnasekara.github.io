@@ -18,12 +18,13 @@ header_pages:
   - about.md
   - education.md
   - experience.md
+  - skills.md
   - projects_research.md
   - publications.md
-  - volunteering.md
-  - skills.md
+  - conferences_seminars.md
   - awards.md
   - hobbies.md
+  - volunteering.md
 
 github_username: Gayani-Rathnasekara
 linkedin_username: gayani-rathnasekara
