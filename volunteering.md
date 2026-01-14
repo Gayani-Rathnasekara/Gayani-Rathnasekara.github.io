@@ -13,3 +13,12 @@ permalink: /volunteering/
     - Designed content to inspire and educate students on interdisciplinary applications of electrical engineering and digital systems.
     - Contributed to awareness and education initiatives for emerging spectrum management and RF system innovations.
 
+- Entrepreneur Lead (EL) - NSF Regional ICORPS project (2023)
+
+- Event Coordinator - IEEE YP/WIE Region 03, FIU (2023)
+
+- Academic Advisor, Mentor, Program Review Committee member - Faculty of Engineering (FoE), University of Ruhuna (2021/2022)
+
+- Convener - Technical Evaluation Committee, Faculty of Engineering, University of Ruhuna (TEC) (2022)
+  
+- An orator, announcer, and moderator in many events
