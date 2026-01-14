@@ -28,7 +28,7 @@ Serving as a GRA at FIU’s RAND Lab has been a defining part of my research jou
 
 I am deeply grateful to my mother faculty for providing an enriching academic and research environment that supported my professional and personal growth. The opportunity to collaborate with dedicated faculty, staff, and students has strengthened my technical expertise, leadership, and teamwork skills. 
 
-4. **Axiata Digital Labs <a href="https://www.axiatadigitallabs.com/" target="_blank" rel="noopener noreferrer">(ADL)</a>**, Colombo, Sri Lanka (Feb, 2019 - Oct,2021)
+3. **Axiata Digital Labs <a href="https://www.axiatadigitallabs.com/" target="_blank" rel="noopener noreferrer">(ADL)</a>**, Colombo, Sri Lanka (Feb, 2019 - Oct,2021)
 - **Project Lead** (April,2021 - Oct,2021)
 - **Management Trainee** (Feb,2021 - April,2021)
 - **Technical Business Analyst** (March,2020 - Feb,2021)
