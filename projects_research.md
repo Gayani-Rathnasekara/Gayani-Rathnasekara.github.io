@@ -17,7 +17,11 @@ Research work:
   
 - ASIC-Ready Hardware Accelerators: I explore transforming FPGA prototypes into custom silicon solutions, emphasizing area-, power-, and performance-efficient accelerator designs. This includes mapping parallel signal processing and MVM workloads to ASIC-friendly architectures while preserving flexibility and throughput.
   
+Publications:
 
+Please refer
+- **<a href="https://scholar.google.com/citations?user=UMnTcrgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>**
+- **<a href="https://orcid.org/my-orcid?orcid=0000-0003-1564-4872" target="_blank" rel="noopener noreferrer">ORCiD</a>**
 
 
 
