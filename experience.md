@@ -11,7 +11,7 @@ permalink: /experience/
   - Research & Technical Projects:
     - FPGA/RFSoC-based polyphase digital architectures for high-throughput real-time multirate signal processing (Matrix–vector multiplier (MVM) core for RF DSP and RF ML applications)
     - Integration of custom RTL/System Generator IP into Vivado-based FPGA designs and validated functionality on Xilinx RFSoC ZCU111 and Intel Stratix-10AX
-    - Perform RTL simulation, debugging, synthesis, and timing analysis to meet throughput and latency requirements
+    - Analyze synthesis and timing reports to evaluate performance, throughput, and latency trade-offs in FPGA implementations
     - Design of Wideband transceivers chains and RF systems (including fullduplex/STAR systems)
 
   - Sponsors: US Government, National Science Foundation
