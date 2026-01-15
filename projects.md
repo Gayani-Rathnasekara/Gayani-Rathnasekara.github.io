@@ -18,6 +18,8 @@ Research work:
 
 Projects:
 
+- Built a scalable polyphase systolic MVM accelerator on Intel Stratix-10 AX that operates across 16 parallel polyphase paths and provides 4 GHz IBW, enabling high-throughput MAC operations for wideband RF AI and spectrum-sensing applications.
+  
 - Designed massively parallel “Matrix–Vector Multiplication (MVM)” Core for hardware acceleration. The novelty in this design is it enables real-time polyphase wideband RF digital signal processing for digital beamforming, adaptive filtering, and RF ML applications. Also, it is scalable and optimized for FPGA and ASIC-ready designs.
   
 - Designed and implemented a 512-tap digital FIR filter using Xilinx System Generator and RFSoC ZCU111 and Altera Stratix 10. It operates across 8 and 16 parallel polyphase paths with dynamic coefficient assignment.
