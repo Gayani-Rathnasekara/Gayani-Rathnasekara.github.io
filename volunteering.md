@@ -12,6 +12,7 @@ permalink: /volunteering/
     - Delivered technical seminars on chip technologies, AI hardware, and career pathways to over 150 students across Sri Lanka.
     - Designed content to inspire and educate students on interdisciplinary applications of electrical engineering and digital systems.
     - Contributed to awareness and education initiatives for emerging spectrum management and RF system innovations.
+    - One of lovely session: **<a href="https://www.youtube.com/watch?app=desktop&v=5fRtxm2qIqo" target="_blank" rel="noopener noreferrer">Tech Exchange Program</a>**
 
 - Entrepreneur Lead (EL) - NSF Regional ICORPS project (2023)
 
