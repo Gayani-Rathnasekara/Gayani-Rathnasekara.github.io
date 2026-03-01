@@ -13,6 +13,7 @@ permalink: /volunteering/
     - Designed content to inspire and educate students on interdisciplinary applications of electrical engineering and digital systems.
     - Contributed to awareness and education initiatives for emerging spectrum management and RF system innovations.
     - One of lovely interactive and successful session: **<a href="https://www.youtube.com/watch?app=desktop&v=5fRtxm2qIqo" target="_blank" rel="noopener noreferrer">Tech Exchange Program</a>**
+    - Published article at the IEEE SSCS Winter 2026 Magazine: **<a href="https://ieeexplore.ieee.org/document/11359401:" target="_blank" rel="noopener noreferrer">IEEE SSCS SEED Program</a>**
 
 - Entrepreneur Lead (EL) - NSF Regional ICORPS project (2023)
 
