@@ -3,6 +3,12 @@ layout: page
 title: Projects 
 permalink: /projects/
 ---
+
+Publications:
+Please refer
+- **<a href="https://scholar.google.com/citations?user=UMnTcrgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>**
+- **<a href="https://orcid.org/my-orcid?orcid=0000-0003-1564-4872" target="_blank" rel="noopener noreferrer">ORCiD</a>**
+
 Research work:
 - Polyphase Digital Architectures: I investigate polyphase filter and signal processing architectures to enable high-throughput, low-latency digital systems. These structures exploit parallelism across multiple phases to efficiently implement filtering, interpolation, and decimation, particularly for wideband RF and baseband signals.
   
@@ -34,11 +40,6 @@ Projects:
   
 - Designed a band-pass filter tuned to the human voice frequency range (approx. 300–3400 Hz) and conducted simulation and practical testing to optimize filter response and minimize signal distortion (UG).
   
-Publications:
-Please refer
-- **<a href="https://scholar.google.com/citations?user=UMnTcrgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>**
-- **<a href="https://orcid.org/my-orcid?orcid=0000-0003-1564-4872" target="_blank" rel="noopener noreferrer">ORCiD</a>**
-
 
 
 
