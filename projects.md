@@ -8,6 +8,7 @@ Publications:
 Please refer
 - **<a href="https://scholar.google.com/citations?user=UMnTcrgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>**
 - **<a href="https://orcid.org/my-orcid?orcid=0000-0003-1564-4872" target="_blank" rel="noopener noreferrer">ORCiD</a>**
+- **<a href="https://www.researchgate.net/profile/Gayani-Rathnasekara/research" target="_blank" rel="noopener noreferrer">ResearchGate</a>**
 
 Research work:
 - Polyphase Digital Architectures: I investigate polyphase filter and signal processing architectures to enable high-throughput, low-latency digital systems. These structures exploit parallelism across multiple phases to efficiently implement filtering, interpolation, and decimation, particularly for wideband RF and baseband signals.
