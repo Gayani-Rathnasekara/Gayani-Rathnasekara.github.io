@@ -4,6 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
+- VTC2026 - Fall: NSF Tavel Award and VTS Travel Award
 - NRSM 2026: Travel Fellowship Award 
 - IEEE MTT-S Radio & Wireless Week 2026 (RWW2026): Travel Award
 - *Women in Spectrum* Scholarship Winner 2025 - offered by National Spectrum Consortium, Diversity in Spectrum Council
