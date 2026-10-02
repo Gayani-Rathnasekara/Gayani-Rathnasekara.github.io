@@ -3,7 +3,7 @@ layout: page
 title: Conferences
 permalink: /conferences/
 ---
-
+- Presented two papers at the IEEE VTC2026-Fall, Boston, MA, USA (2026)
 - Demonstrated live the reconfigurable high throughput digital polyphase architecture for FIR filtering across 1GHz IBW which process 1 TeraMACs/s on Xilinx RFSoC ZCU-111 and Presented our paper at the 2026 IEEE Radio Wireless Week (RWW), Hollywood, CA, USA (2026)
 - Presented our paper at the 2026 USNC-URSI National Radio Science Meeting (NRSM), Boulder, CO, USA (2026)
 - Delivered IEEE SSCS/EDS-supported semiconductor outreach seminars, mentoring 150+ high school and undergraduate students across Sri Lanka on chip technologies, AI hardware, and industry pathways (2025)
