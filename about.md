@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About Me
-
 I am a PhD candidate in Electrical Engineering at **Florida International University (FIU)and a researcher in the RF Analog and Digital (**<a href="https://www.rand-lab.org" target="_blank" rel="noopener noreferrer">RAND</a>) Lab. My research focuses on **hardware-accelerated digital signal processing architectures for RF, MIMO, and machine learning applications**, with an emphasis on wireless communications for **6G and beyond**.
 
 My work bridges **algorithm design, FPGA/RFSoC prototyping, and ASIC-ready digital architectures** to develop real-time, high-throughput processing systems for ultra-wideband wireless applications. I am particularly interested in designing hardware architectures that bring advanced signal processing and machine learning algorithms closer to the RF interface, enabling efficient and adaptable hardware intelligence for future wireless networks.
